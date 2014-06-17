@@ -1,0 +1,15 @@
+body {
+  /*padding-top: 25px;*/
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#view-cart-button-holder {
+	text-align: right;
+}
+
+td {
+	vertical-align: center !important;
+}
